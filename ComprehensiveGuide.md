@@ -2,7 +2,7 @@ Guide covering JDK 11, 17, and 21, Spring Boot 2.3.x, Spring 5 & 6, Spring Integ
 
 # Comprehensive Guide to Modern Java and Spring Boot Microservices
 
-**Author:** *Your Name*  
+**Author:** *Ensar Solutions*  
 **Audience:** Intermediate Java Developers  
 **Focus:** Java (JDK 11, 17, 21), Spring (Boot 2.3.x, Spring 5 & 6, Spring Integration), Build Tools (Maven & Gradle), Web APIs (CRUD), JPA/Hibernate, Application Layers (Entity, Repository, Service, Controller), IDE Setup (Eclipse & VS Code), Inversion of Control (IoC), and Secure JWT Authentication – all within a **microservices development** context.
 
